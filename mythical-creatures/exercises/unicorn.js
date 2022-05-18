@@ -6,7 +6,7 @@ class Unicorn {
       this.color = "white";
     } else {
       this.color = color;
-    }
+      }
     }
 
     isWhite() {
