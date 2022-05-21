@@ -27,6 +27,4 @@ class Pirate {
   }
 }
 
-// var luffy = new Pirate("Monkey D Luffy")
-// console.log(luffy)
 module.exports = Pirate;
